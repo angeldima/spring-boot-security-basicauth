@@ -1,7 +1,6 @@
 package com.example.payroll.controller;
 
 import com.example.payroll.entity.Employee;
-import com.example.payroll.exception.EmployeeNotFoundException;
 import com.example.payroll.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
